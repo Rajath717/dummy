@@ -1,0 +1,21 @@
+{
+  "name": "custombg",
+  "version": "1.0.0",
+  "description": "Background geolocation for tracking",
+  "main": "index.js",
+  "dependencies": {
+    "plugman": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ionic",
+    "cordova",
+    "background",
+    "geolocation"
+  ],
+  "author": "rajath",
+  "license": "ISC"
+}
